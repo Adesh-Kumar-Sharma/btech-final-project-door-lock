@@ -1,6 +1,6 @@
-# Bluetooth-controlled Automatic Door Lock with Signal-Noise Reduction (B.Tech Final Project)
+# Bluetooth-controlled Automatic Door Lock with Signal-Noise Reduction (B. Tech. Final Year Project)
 
-**Project type:** B.Tech final-year project (Group of 4)  
+**Project type:** B. Tech. final year project (Group of 4)  
 **Role (Adesh Kumar Sharma):** Hardware design, embedded firmware, signal-processing algorithm, testing & documentation.  
 **Other contributors:** Adarsh Mishra (Android app & authentication), Ajay Sahu (Power electronics & PCB), Ajay Singh Parihar (UI testing & integration).
 
@@ -14,8 +14,8 @@ A Bluetooth-controlled automatic door-lock system implemented using an Arduino U
 
 ## Files included in this repo
 
-- `README_Bluetooth_DoorLock_Project.md` (this file)
-- `Report_Bluetooth_DoorLock_Project.pdf` (project report)
+- `README.md` (this file)
+- `Report.pdf` (project report)
 - `firmware/` (Arduino `.ino` source with comments)
 - `hardware/` (photos of hardware, schematics, PCB photos, component list)
 
